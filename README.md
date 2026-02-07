@@ -7,11 +7,10 @@ If an idea pops into my head… **chances are I’ll build it and ship it**.
 
 My main tech stack includes:
 
-* **JavaScript, TypeScript**
-* **React, Next.js**
+* **JavaScript**
 * **CSS / SCSS**
-* **GSAP**
-* **Node.js**
+* **HTML**
+
 
 I also use tools like **Figma, Git**, and modern build systems such as **Vite**…
 ---
